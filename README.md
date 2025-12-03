@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 Overview
-Resonance AI is a research project focused on building **fair, interpretable, and clinically meaningful machine-learning models** that detect depression-related vocal biomarkers from speech. The project prioritizes:
+NeuroVox is a research project focused on building **fair, interpretable, and clinically meaningful machine-learning models** that detect depression-related vocal biomarkers from speech. The project prioritizes:
 
 - Explainability through SHAP analysis  
 - Bias auditing across demographic groups  
@@ -59,7 +59,7 @@ This project is released under the **MIT License**.
 ## 📚 Citation
 If you use this work, please cite:
 
-Alexander, P. (2025). *Resonance AI: Explainable Machine Learning for Vocal Biomarkers of Depression*. GitHub Repository.
+Alexander, P. (2025). *NeuroVox: Explainable Machine Learning for Vocal Biomarkers of Depression*. GitHub Repository.
 
 ---
 
