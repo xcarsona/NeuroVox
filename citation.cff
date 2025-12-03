@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: NeuroVox
+authors:
+  - family-names: Alexander
+    given-names: Philip
+date-released: 2025
+version: 1.0.0
+abstract: Explainable machine learning for depression detection using vocal biomarkers with fairness auditing.
+license: MIT
