@@ -7,8 +7,7 @@ This folder contains all datasets used for the Resonance AI project.
 - processed/ → Cleaned and feature-engineered data
 
 ## Data Sources
-- DAIC-WOZ Depression Dataset (Primary)
-- Kaggle Mental Health Datasets (Backup)
+- Kaggle Mental Health Datasets (Primary)
 
 ## Ethics
 All datasets are:
