@@ -1,10 +1,6 @@
 # Data Directory
 
-This folder contains all datasets used for the Resonance AI project.
-
-## Structure
-- raw/        → Original unmodified datasets
-- processed/ → Cleaned and feature-engineered data
+This folder contains all datasets used for the NeuroVox project.
 
 ## Data Sources
 - Kaggle Mental Health Datasets (Primary)
