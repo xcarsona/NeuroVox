@@ -1,12 +1,7 @@
-def load_data(path):
-    """
-    Load raw dataset from disk.
-    """
-    pass
+import pandas as pd
 
-
-def clean_data(df):
-    """
-    Clean and normalize dataset.
-    """
-    pass
+def clean_text_column(df, text_col):
+    df = df.copy()
+    df[text_col] = df[text_col].astype(str).str.lower()
+    df = df.dropna(subset=[text_col])
+    return df
