@@ -1,15 +1,17 @@
-# Data Directory
+Data Access
 
-This folder contains all datasets used for the NeuroVox project.
+This project uses the Kaggle "Sentiment Analysis for Mental Health" dataset.
 
-## Data Sources
-- Kaggle Mental Health Datasets (Primary)
+Due to size and licensing constraints, the dataset is not included in this repository.
 
-## Ethics
-All datasets are:
-- De-identified
-- Approved for academic research
-- Used only for non-clinical research
+How to Obtain the Data: 
 
-No raw data containing identifiable information will be publicly distributed.
+1. Create a Kaggle account
+2. Download the dataset:
+   https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
+3. Place the CSV file in this folder: data/raw_data.csv
+4. Run `notebooks/01_data_cleaning.ipynb` to generate: data/cleaned_data.csv
+
+All subsequent notebooks depend on `cleaned_data.csv`.
+
 
