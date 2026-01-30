@@ -25,7 +25,7 @@ Can explainable machine-learning models reliably detect depression-related vocal
 ---
 
 ## 🔬 Methods Summary
-- **Datasets:** DAIC-WOZ (primary), Kaggle mental-health datasets (backup)
+- **Datasets:** Kaggle mental-health datasets (primary)
 - **Audio Features:** MFCCs, spectral contrast, pitch, energy, prosody
 - **Text Features:** Sentiment scores, embeddings
 - **Models:** Logistic Regression, XGBoost, CNNs, Transformers
